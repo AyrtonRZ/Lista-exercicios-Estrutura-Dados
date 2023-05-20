@@ -1,8 +1,8 @@
 '''
-Programa: 
-Autor: 
-Data: 
-Descrição: 
+Função: Classificação de vetor usando o algoritmo de Seleção
+Autor: Ayrton Rodrigues, Rian Lucas
+Data: 20-05-2022
+Descrição: Implementa a classificação de elementos de um vetor em ordem crescente usando o algoritmo de Seleção.
 '''
 
 import random

@@ -1,9 +1,10 @@
 /*
-   Função:
-   Autor: 
-   Data: 
-   Observações:
+Função: Cadastro de Empregados
+Autor: Ayrton Rodrigues, Rian Lucas
+Data: 20-05-2023
+Descrição: Este programa permite cadastrar informações de empregados, incluindo nome, data de nascimento, RG, data de admissão e salário. Os dados são armazenados em uma estrutura e exibidos na tela.
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 

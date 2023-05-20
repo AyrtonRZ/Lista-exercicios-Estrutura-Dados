@@ -1,7 +1,7 @@
 '''
 Programa: Conjectura de Goldbach
-Autor: 
-Data: 
+Autor: Ayrton Rodrigues, Rian Lucas
+Data: 20-05-2023
 Descrição: Verifica a Conjectura de Goldbach para números pares entre 700 e 1100.
 '''
 

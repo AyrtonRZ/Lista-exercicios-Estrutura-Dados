@@ -1,8 +1,8 @@
 /*
-   Função: 
-   Autor: 
-   Data: 
-   Observações:
+Função: Cadastro de Aeroportos
+Autor: Ayrton Rodrigues, Rian Lucas
+Data: 20-05-2023
+Descrição: Este programa permite cadastrar informações de aeroportos, incluindo sigla, cidade, país, taxa e capacidade. Os dados são armazenados em uma estrutura e exibidos na tela.
 */
 
 #include <stdio.h>

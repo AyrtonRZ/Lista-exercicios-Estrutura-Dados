@@ -1,7 +1,7 @@
 '''
 Programa: Classificação de vetor usando o algoritmo Quicksort
-Autor:
-Data:
+Autor: Ayrton Rodrigues, Rian Lucas
+Data: 20-05-2022
 Descrição: Implementa a classificação de elementos de um vetor em ordem crescente usando o algoritmo Quicksort.
 '''
 

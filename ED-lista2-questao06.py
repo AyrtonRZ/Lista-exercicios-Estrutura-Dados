@@ -1,7 +1,7 @@
 '''
 Programa: Cálculo da Raiz Quadrada com o Método de Newton-Raphson
-Autor: 
-Data: 
+Autor: Ayrton Rodrigues, Rian Lucas
+Data: 20-05-2022
 Descrição: Calcula a raiz quadrada de um número com aproximação de 0.0001 usando o Método de Newton-Raphson.
 '''
 
